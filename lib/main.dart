@@ -102,7 +102,7 @@ class _StudentPageState extends State<StudentPage> {
               RaisedButton(
                 color: Colors.purple,
                 child: Text(
-                  (isUpdate ? 'ATUALIZAR' : 'NOVO'),
+                  (isUpdate ? 'ATUALIZAR' : 'SALVAR'),
                   style: TextStyle(color: Colors.white),
                 ),
                 onPressed: () {
