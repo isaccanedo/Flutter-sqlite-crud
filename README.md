@@ -1,4 +1,4 @@
-# crud
+# 👋 # Como realizar uma operação CRUD no banco de dados SQlite no Flutter
 
 A new Flutter project.
 
