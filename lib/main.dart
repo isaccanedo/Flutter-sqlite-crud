@@ -2,6 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:flutter_sqlite_crud/db_helper.dart';
 import 'package:flutter_sqlite_crud/student_model.dart';
 
+// ---------------------------------------
+// @author Isac Canedo
+// ---------------------------------------
+
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
